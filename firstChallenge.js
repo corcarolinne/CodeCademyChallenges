@@ -1,6 +1,6 @@
 // Description of the challenge
 confirm("I am ready to play!")
-var age = prompt("What's your age");
+var age = prompt("What's your age?");
 if (age < 13) {
     console.log("You're allowed to play, but I'm take no responsibility.");
 } else {
