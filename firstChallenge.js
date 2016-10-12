@@ -1,4 +1,4 @@
-// Description of the challenge
+// This is a simple game about a race with Justin Bieber
 confirm("I am ready to play!")
 var age = prompt("What's your age?");
 if (age < 13) {
