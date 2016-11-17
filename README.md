@@ -1,6 +1,6 @@
 What Is This?
 -------------
-(Work in progress)
+(DONE)
 
 This is the results of the main challenges that I did on JS course on Codecademy.
 
